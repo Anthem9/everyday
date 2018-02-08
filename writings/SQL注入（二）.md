@@ -116,6 +116,8 @@ select table_name from information_schema.tables where table_schema=‘security�
 
 //假设数据库名字为security
 
+//如果过滤了单引号则可以使用security的16进制ASCII
+
 ![img](https://github.com/Anthem9/everyday/raw/master/image/v2-3de621c95993362cac73cf5235998a05_hd.jpg)
 
 **Step3:列**
