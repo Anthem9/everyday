@@ -78,6 +78,8 @@ echo
 
 #### md5绕过(Hash比较缺陷)
 
+也叫md5 0e漏洞
+
 ```php
  1 <?php
  2 if (isset($_GET['Username']) && isset($_GET['password'])) {
@@ -188,6 +190,8 @@ false。
 array_search函数 类似于== 也就是$a=="admin" 当然是$a=0  当然如果第三个参数为true则就不能绕过
 
 #### strcmp漏洞绕过 php -v <5.3
+
+也叫strcmp空数组漏洞
 
 ```php
  1 <?php
