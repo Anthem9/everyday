@@ -16,6 +16,8 @@ proxifier配合ss，实现真正的全局代理
 
 ### 如下图，添加地址127.0.0.1，以及ss里配置的本地端口，默认为1080，选择socks version 5
 
+*（有的服务器可能不是默认的1080，比如我自己的，请注意核对。）*
+
 ![img](https://github.com/Anthem9/everyday/raw/master/image/1481881-74cebb86e69a85b9.png)
 
 proxifier配合ss，实现真正的全局代理
