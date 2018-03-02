@@ -1,7 +1,7 @@
 # proxifier配合ss，实现真正的全局代理
 
 由于ss使用的是sockets5代理，一般情况下只有浏览器支持，可以实现科学上网。但很多用户希望自己的应用软件，像outlook或游戏之类的软件也实现科学上网。这就需要proxifier的配合。
-软件可以在官网下载，[https://www.proxifier.com/](https://link.jianshu.com/?t=https://www.proxifier.com/download.htm)
+软件可以在官网下载，https://www.proxifier.com/
 目前仅支持windows和mac os，不支持手机。
 此软件为收费软件，这里提供两个注册码, 软件分为Standard Edition和Portable Edition版本，注册码不通用，注册用户名任意。
 L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C（Portable Edition）
